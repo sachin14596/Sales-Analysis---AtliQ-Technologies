@@ -1,5 +1,5 @@
 # Overview 📜
-This project will give you a feel of how data analysis projects are executed in big companies. This would be perfect for anyone seeking career as a data analyst. Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. Providing Insights to resolve them by creating an in-depth data analysis dashboard. The initial data cleaning and data exploration were done using SQL from the company’s real-time database. Insights like Revenue, Sales Quantity, Top Customers, Total Profit Margin % and contribution % based on Markets, Customers, Zones, comparing parameters with past years and areas to focus on in the future for better sales growth
+Providing Insights to resolve them by creating an in-depth data analysis dashboard. The initial data cleaning and data exploration were done using SQL from the company’s real-time database. Insights like Revenue, Sales Quantity, Top Customers, Total Profit Margin % and contribution % based on Markets, Customers, Zones, comparing parameters with past years and areas to focus on in the future for better sales growth
 
 # Problem Statement ❓
 Computer Hardware Business Company AtliQ Technologies facing challenges in the dynamic market.
